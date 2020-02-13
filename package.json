@@ -1,0 +1,10 @@
+{
+    "name": "groupme-haiku-bot",
+    "version": "0.0.1",
+    "main": "bot.js",
+    "dependencies": {
+        "axios": "^0.18.1",
+        "express": "^4.16.4",
+        "xmlhttprequest": "^1.8.0"
+    }
+}
